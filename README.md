@@ -1,1 +1,0 @@
-# QA_AUTO_SQL_Materials
